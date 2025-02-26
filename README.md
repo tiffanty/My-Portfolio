@@ -5,8 +5,8 @@
 
 
 
-**Hi, my name is Tiffany!
-**
+Hi, my name is Tiffany!
+
 I'm an Economics major with a minor in Elements of Computing at the University of Texas at Austin. Passionate about software development, I enjoy exploring different programming paradigms and building projects that enhance my technical skills.
 
 My repositories showcase my proficiency in:
