@@ -12,8 +12,11 @@ I'm an Economics major with a minor in Elements of Computing at the University o
 My repositories showcase my proficiency in:
 
 Java: Object-Oriented Programming, algorithms, and data structures
+
 Processing: Creative coding and visual projects
+
 Python: Scripting, automation, and data manipulation
+
 OOP: Writing scalable and maintainable code
 
 
